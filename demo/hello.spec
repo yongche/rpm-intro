@@ -31,7 +31,5 @@ make install DESTDIR=%{buildroot}
 %doc
 
 %changelog
-* Sun Dec 4 2016 Your Name <youremail@xxx.xxx> - 2.10-1
-- Update to 2.10
-* Sat Dec 3 2016 Your Name <youremail@xxx.xxx> - 2.9-1
-- Update to 2.9
+* Sat Dec 29 2018 zhangchunsheng<zhangchunsheng@yongche.com> - 2.10-1
+- hello
