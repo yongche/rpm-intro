@@ -1,5 +1,5 @@
 Name:     hello
-Version:  2.1
+Version:  2.10
 Release:  1%{?dist}
 Summary:  The "Hello World" program from GNU
 Summary(zh_CN):  GNU "Hello World"
